@@ -1,0 +1,21 @@
+http://digimate.airtel.in:15181/BULK_API/InstantJsonPush
+
+{
+    "keyword": "DEMO",
+    "timestamp": "28112022173433",
+    "dataSet": [{
+        "UNIQUE_ID": "9466752985278657",
+        "MESSAGE": "Dear Customer,Give yourself a gift of good health this festive season with Swasthfit package from Dr Lal PathLabs and avail a special Diwali discount of 50 just for you. Valid till Nov30. Use coupon code Code2 while booking. Call to book test 1111111111 or click here www.google.com -Dr Lal Path Labs",
+        "OA": "LALPAT",
+        "MSISDN": "9466752985",
+        "CHANNEL": "SMS",
+        "LANG_ID": "0",
+        "CAMPAIGN_NAME": "lalpath_u",
+        "DLT_CT_ID": "1107166607606212344",
+        "DLT_PE_ID": "1601100000000002246",
+        "DLT_TM_ID": "1001096933494158",
+        "CIRCLE_NAME": "DLT_SERVICE_EXPLICT",
+        "USER_NAME": "lalpath_hse1",
+        "ACTION_RESP_URL": "https://pep-event-engine.azurewebsites.net/lalpathlabs/push-dlr-reports?"
+    }]
+}
